@@ -1,8 +1,11 @@
-length of number
-wovel count
-array's largest number
+july 16 2026 | done{
+    length of number
+    wovel count
+    array's largest number
+}
 
-reverse the void | recursion
+
+reverse the string | recursion
 upper case frequency | recursion
 string reversal | reversal
 find the lenght | recursion
