@@ -1,0 +1,22 @@
+so let me think about it
+i would say best way can be
+
+fun(
+    arr,
+    largest,
+    index
+)
+
+now outward is good. let it return 0 at first which mean largest is 0
+now i have to understand how: so main concept it return what i return after 0.
+
+so i made a func()
+is:Largest(first, second) which do return larger one: simple it let me know if any number become big then largest
+
+i changed it cause mainly coz i realised that it is not needed so
+
+fun(
+    arr,
+    index
+)
+ -X-
